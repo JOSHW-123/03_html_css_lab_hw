@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body > footer {
+    background-color: dodgerblue;
+    padding: 8px;
+}
+
+body > header {
+    background-color: dodgerblue;
+    color: white;
+}
+
+#logo {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav > ul {
+    
+    list-style: none;
+    text-align: Right;
+    padding-right: 1cm;  
+    
+}
+
+nav > ul > li > a {
+    color: white;
+}
+
+body > main > article {
+    margin: auto;
+    width: 80%;
+}
+
+main > form {
+
+}
+
+#submit_bottom_button {
+   
+    text-align: Right;
+    
+
+}
